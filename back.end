@@ -1,0 +1,4 @@
+n=input('digite algo')
+print(n.isalpha())#para perguntar se é numero
+print(n.isnumeric())#para perguntar  é letra 
+print(n.islower())#para verificar se é apenas latra minuscula
